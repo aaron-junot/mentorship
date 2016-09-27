@@ -1,8 +1,4 @@
-Software Protégé** **Program Mentor & Mentee Guidebook
-
-Version: Draft 1.1
-
-Date: September 18, 2016
+# Software Mentorship Program Guidebook
 
 ## **Background of Operation Code**
 
@@ -12,7 +8,7 @@ Operation Code's Software Mentorship Program connects transitioning military, ci
 
 * Android
 
-* C Sharp
+* C#
 
 * Ember
 
