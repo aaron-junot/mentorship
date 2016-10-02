@@ -26,7 +26,13 @@ Operation Code's Software Mentorship Program connects transitioning military, ci
 
 * Python
 
-* Ruby
+* Ruby and Ruby on Rails
+
+* React
+
+* SASS and CSS
+
+* Node
 
 * Static-Sites, including Jekyll, Middleman
 
