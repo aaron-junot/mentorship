@@ -51,7 +51,7 @@
 * http://cyber.lockheedmartin.com/solutions/cyber-kill-chain [Deadlink?]
 * https://forum.bugcrowd.com/t/researcher-resources-tutorials/370
 * http://www.infoworld.com/article/3048399/application-development/5-dev-tools-for-better-code-security.html
-* https://teex.org
+* [Texas A&M Free Online Courses](https://teex.org/Pages/Program.aspx?catID=231&courseTitle=Cybersecurity)
 
 ### Reverse Engineering
 * http://www.opensecuritytraining.info/IntroductionToReverseEngineering.html
