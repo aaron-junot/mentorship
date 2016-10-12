@@ -1,16 +1,17 @@
 # Learning Resources
 ## Cheatsheets
-* All the cheatsheets http://overapi.com
-* https://github.com/rafalchmiel/bash-cheat-sheet
+* [All the cheatsheets](http://overapi.com)
+* [Bash Cheat Sheet](https://github.com/rafalchmiel/bash-cheat-sheet)
 
 ## Learn Code (multiple languages)
-* https://medium.com/@javier_noris/an-outline-to-learning-to-code-in-1-year-572a1a78fa62#.1gn9x76sb
-* http://norvig.com/21days.html
+* [Blog Post - Learn Code in 1 Year](https://medium.com/@javier_noris/an-outline-to-learning-to-code-in-1-year-572a1a78fa62#.1gn9x76sb)
+* [Article - Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html)
 * https://hackr.io
-* https://www.rithmschool.com/courses
-* http://www.codecademy.com/
-* https://www.pluralsight.com/product/paths
-* https://teamtreehouse.com/http://freecodecamp.com/
+* [Rithm School](https://www.rithmschool.com/courses)
+* [Code Academy](http://www.codecademy.com/)
+* [PluralSight](https://www.pluralsight.com/product/paths)
+* [Tree House](https://teamtreehouse.com/)
+* [Free Code Camp](http://freecodecamp.com/)
 * http://www.crunchzilla.com/
 * https://www.khanacademy.org/computing/computer-programming
 * https://www.codeschool.com/
