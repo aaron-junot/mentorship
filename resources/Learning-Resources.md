@@ -138,7 +138,7 @@
 * [2016 Best Places to work in IT (ComputerWorld)](http://www.computerworld.com/article/3083165/bestplaces2016/the-complete-listings-computerworlds-100-best-places-to-work-in-it-for-2016.html)
 
 ## Certifications
-* Professor Messer(http://www.professormesser.com)
+* [Professor Messer](http://www.professormesser.com)
 
 ## Books
 * [Free Programming Books](https://github.com/vhf/free-programming-books)
