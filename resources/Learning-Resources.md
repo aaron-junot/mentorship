@@ -125,6 +125,7 @@
 
 ## Jobs
 * http://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/#basics
+* http://www.codenewbie.org/blogs/what-i-look-for-in-a-junior-developer
 * https://remotejobs.com/
 * https://startupweekend.org
 * http://www.computerworld.com/article/3083165/bestplaces2016/the-complete-listings-computerworlds-100-best-places-to-work-in-it-for-2016.html
