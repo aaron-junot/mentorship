@@ -131,6 +131,7 @@
 * [Docker Tutorial](https://prakhar.me/docker-curriculum)
 
 ## Jobs
+* [Jr Dev Jobs](https://www.jrdevjobs.com/)
 * [Remote Ok](https://remoteok.io/)
 * [Article -- How to Break into Tech: Job Hunting and Interviews](http://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/#basics)
 * [Article -- What I Look for in a Junior Developer](http://www.codenewbie.org/blogs/what-i-look-for-in-a-junior-developer)
