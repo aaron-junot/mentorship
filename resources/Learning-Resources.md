@@ -110,6 +110,8 @@
 ## Minorities
 * [Girl Develop It](http://girldevelopit.com/)
 * [Black Girls Code](http://www.blackgirlscode.com/)
+* [Rails Girls](http://railsgirls.com/)
+* [Django Girls](https://djangogirls.org/)
 
 ## Veterans
 * [Guild/SA](https://guildsa.org/veterans/)
