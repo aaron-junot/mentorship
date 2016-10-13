@@ -108,6 +108,7 @@
 * [PluralSight Cisco CCNA: Routing and VLANS](https://www.pluralsight.com/courses/ccna-routing-vlans)
 
 ## Minorities
+* [Outreach](https://www.gnome.org/outreachy/)
 * [Girl Develop It](http://girldevelopit.com/)
 * [Black Girls Code](http://www.blackgirlscode.com/)
 * [Rails Girls](http://railsgirls.com/)
