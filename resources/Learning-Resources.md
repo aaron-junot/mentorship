@@ -23,6 +23,7 @@
 * [Coder Dojo](http://coderdojo.com/)
 * [The Odin Project](http://www.theodinproject.com/courses?ref=home)
 * [Functional programming tutorial](http://research.microsoft.com/en-us/um/people/simonpj/papers/pj-lester-book/)
+* [Microsoft Virtual Academy](https://mva.microsoft.com/)
 
 ## Practice Coding (multiple languages)
 * [Hacker Rank](https://www.hackerrank.com/)
