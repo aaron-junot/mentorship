@@ -32,18 +32,30 @@
 * [Code Combat](https://codecombat.com)
 * [CodinGame](https://www.codingame.com/start)
 
-## Web Development
+## Front-End Web Development
 * [Dash - General Assembly](https://dash.generalassemb.ly/)
 * [HTML5 Tutuorial](https://www.html5rocks.com/en/)
 * [W3schools - HTML, CSS, Javascript tutorials](http://www.w3schools.com/)
 * [HTML/CSS Tutorial -- Shay Howe](http://learn.shayhowe.com/)
 * [Eloquent Javascript](http://eloquentjavascript.net)
 * [JavaScript Koans](https://github.com/mrdavidlaing/javascript-koans)
+
+## Back-End Web Development
 * [Ruby Koans](http://github.com/edgecase/ruby_koans)
 * [Ruby on Rails Tutorial](https://www.railstutorial.org/book)
 * [Learn Ruby The Hard Way](http://learnrubythehardway.org/book)
 * [Learn Python The Hard Way](https://learnpythonthehardway.org/book/)
 * [Node School](http://nodeschool.io/)
+
+## Databases
+* [MongoDB University] (https://university.mongodb.com/)
+
+## .NET / Microsoft
+* [Hackr.io: ASP.NET Courses](https://hackr.io/tutorials/learn-asp-net)
+* [Learn VisualStudio.NET](http://www.learnvisualstudio.net/)
+* [Microsoft .NET Learn](https://www.microsoft.com/net/learn)
+* [Code School .NET Courses](https://www.codeschool.com/learn/net)
+* [edX Microsoft Courses](https://www.edx.org/school/microsoft)
 
 ## Cyber Security (InfoSec)
 * [Cybrary](https://www.cybrary.it)
