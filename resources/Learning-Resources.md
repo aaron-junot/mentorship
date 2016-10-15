@@ -120,8 +120,11 @@
 * [PluralSight Cisco CCNA: Routing and VLANS](https://www.pluralsight.com/courses/ccna-routing-vlans)
 
 ## Minorities
+* [Outreach](https://www.gnome.org/outreachy/)
 * [Girl Develop It](http://girldevelopit.com/)
 * [Black Girls Code](http://www.blackgirlscode.com/)
+* [Rails Girls](http://railsgirls.com/)
+* [Django Girls](https://djangogirls.org/)
 
 ## Veterans
 * [Guild/SA](https://guildsa.org/veterans/)
@@ -143,6 +146,7 @@
 * [Docker Tutorial](https://prakhar.me/docker-curriculum)
 
 ## Jobs
+* [Jr Dev Jobs](https://www.jrdevjobs.com/)
 * [Remote Ok](https://remoteok.io/)
 * [Article -- How to Break into Tech: Job Hunting and Interviews](http://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/#basics)
 * [Article -- What I Look for in a Junior Developer](http://www.codenewbie.org/blogs/what-i-look-for-in-a-junior-developer)
