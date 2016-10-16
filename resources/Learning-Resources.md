@@ -7,6 +7,7 @@
 * [Blog Post - Learn Code in 1 Year](https://medium.com/@javier_noris/an-outline-to-learning-to-code-in-1-year-572a1a78fa62#.1gn9x76sb)
 * [Article - Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html)
 * [All the (best) Tutorials](https://hackr.io)
+* [Code.org](https://code.org/)
 * [Rithm School](https://www.rithmschool.com/courses)
 * [Code Academy](http://www.codecademy.com/)
 * [PluralSight](https://www.pluralsight.com/product/paths)
@@ -58,6 +59,8 @@
 * [edX Microsoft Courses](https://www.edx.org/school/microsoft)
 
 ## Cyber Security (InfoSec)
+* [Webgoat](https://www.owasp.org/index.php/Category:OWASP_WebGoat_Project)
+* [Hack 'n' Slash](http://store.steampowered.com/app/246070/)
 * [Cybrary](https://www.cybrary.it)
 * [Hacksplaining](https://www.hacksplaining.com/)
 * [Infographic -- Cyber Kill Chain](http://cyber.lockheedmartin.com/solutions/cyber-kill-chain) [Deadlink?]
@@ -104,6 +107,7 @@
 
 ### Git and Github
 * [What is Version Control?](https://www.atlassian.com/git/tutorials/what-is-version-control/)
+* [Github Hello World](https://guides.github.com/activities/hello-world/)
 * [Learn Git Branching -- Visual Tutorial](http://learngitbranching.js.org/)
 * [Github for Developers -- Day 1 (September 22, 2016)](https://vimeo.com/184964934/6eb0748a7b)
 * [Github for Developers -- Day 2 (September 23, 2016)](https://vimeo.com/184964933/ef06c54945)
@@ -147,12 +151,21 @@
 
 ## Jobs
 * [Jr Dev Jobs](https://www.jrdevjobs.com/)
-* [Remote Ok](https://remoteok.io/)
 * [Article -- How to Break into Tech: Job Hunting and Interviews](http://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/#basics)
 * [Article -- What I Look for in a Junior Developer](http://www.codenewbie.org/blogs/what-i-look-for-in-a-junior-developer)
-* [Remote Jobs](https://remotejobs.com/)
-* [Start Up Weekend (Good for Networking locally)](https://startupweekend.org)
 * [2016 Best Places to work in IT (ComputerWorld)](http://www.computerworld.com/article/3083165/bestplaces2016/the-complete-listings-computerworlds-100-best-places-to-work-in-it-for-2016.html)
+
+### Apprenticeships
+* [Kanone](https://www.kanone.com/)
+
+### Remote
+* [Remote Ok](https://remoteok.io/)
+* [Remote Jobs](https://remotejobs.com/)
+
+### Local
+* [Start Up Weekend (Good for Networking locally)](https://startupweekend.org)
+* [Meetup (not technically <i>for</i> jobs, but can help network which can lead to one)](https://www.meetup.com/)
+
 
 ## Certifications
 * [Professor Messer](http://www.professormesser.com)
@@ -163,3 +176,4 @@
 * [Ed Yourdan](https://en.wikipedia.org/wiki/Edward_Yourdon#Publications)
 * [Zero to One](http://buff.ly/2b7sg2E)
 * [Hacking: The Art of Exploitation](https://leaksource.files.wordpress.com/2014/08/hacking-the-art-of-exploitation.pdf)
+* [Safari Books Online](https://www.safaribooksonline.com/our-library/#books)
