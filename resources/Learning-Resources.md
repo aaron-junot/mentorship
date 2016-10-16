@@ -67,6 +67,16 @@
 * [Bugcrowd Tutorials](https://forum.bugcrowd.com/t/researcher-resources-tutorials/370)
 * [Slideshow -- 5 Tools for Better Code Security](http://www.infoworld.com/article/3048399/application-development/5-dev-tools-for-better-code-security.html)
 * [Texas A&M Free Online Courses](https://teex.org/Pages/Program.aspx?catID=231&courseTitle=Cybersecurity)
+* [Structuring the Chief Information Security Officer (CISO) Organization] (https://insights.sei.cmu.edu/sei_blog/2016/02/structuring-the-chief-information-security-officer-ciso-organization.html)
+* [Open Security Architecture] (http://www.opensecurityarchitecture.org/cms/)
+* [Fastly Security Blog] (https://www.fastly.com/blog/category/security)
+
+### Application Security (Software Security)
+* [OWASP] (https://www.owasp.org/index.php/Main_Page)
+* [Angular Security Guide] (https://docs.angularjs.org/guide/security)
+* [SafeCode Security Training] (https://www.youtube.com/playlist?list=PLgiLlNCU6s9eeasnGXAMZj825uU6s7Nje)
+* [Mozilla SSL Configuration Generator] (https://mozilla.github.io/server-side-tls/ssl-config-generator/)
+* [Mozilla Web Security Guide] (https://wiki.mozilla.org/Security/Guidelines/Web_Security)
 
 ### Reverse Engineering
 * [Intro to Reverse Engineering](http://www.opensecuritytraining.info/IntroductionToReverseEngineering.html)
@@ -75,6 +85,11 @@
 * [Pentester Academy](http://www.pentesteracademy.com/video)
 * [DDoS Hacking Forum](http://ddoshackingarticles.com/forum.php) [Deadlink?]
 * [Hack Yourself First -- PluralSight](https://www.pluralsight.com/courses/hack-yourself-first)
+
+### Vulnerable Apps/VM's
+* [Vulnerable Node] (https://github.com/cr0hn/vulnerable-node)
+* [pwnableweb] (https://github.com/Matir/pwnableweb)
+* [OWASP-VWAD] (https://github.com/OWASP/OWASP-VWAD)
 
 ### CTFs
 * [Pynet](https://pynet.twb-tech.com/)
