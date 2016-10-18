@@ -7,6 +7,7 @@
 * [Blog Post - Learn Code in 1 Year](https://medium.com/@javier_noris/an-outline-to-learning-to-code-in-1-year-572a1a78fa62#.1gn9x76sb)
 * [Article - Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html)
 * [All the (best) Tutorials](https://hackr.io)
+* [Code.org](https://code.org/)
 * [Rithm School](https://www.rithmschool.com/courses)
 * [Code Academy](http://www.codecademy.com/)
 * [PluralSight](https://www.pluralsight.com/product/paths)
@@ -32,45 +33,30 @@
 * [Code Combat](https://codecombat.com)
 * [CodinGame](https://www.codingame.com/start)
 
-## Web Development
+## Front-End Web Development
 * [Dash - General Assembly](https://dash.generalassemb.ly/)
 * [HTML5 Tutuorial](https://www.html5rocks.com/en/)
 * [W3schools - HTML, CSS, Javascript tutorials](http://www.w3schools.com/)
 * [HTML/CSS Tutorial -- Shay Howe](http://learn.shayhowe.com/)
 * [Eloquent Javascript](http://eloquentjavascript.net)
 * [JavaScript Koans](https://github.com/mrdavidlaing/javascript-koans)
+
+## Back-End Web Development
 * [Ruby Koans](http://github.com/edgecase/ruby_koans)
 * [Ruby on Rails Tutorial](https://www.railstutorial.org/book)
 * [Learn Ruby The Hard Way](http://learnrubythehardway.org/book)
 * [Learn Python The Hard Way](https://learnpythonthehardway.org/book/)
 * [Node School](http://nodeschool.io/)
 
-## Cyber Security (InfoSec)
-* [Cybrary](https://www.cybrary.it)
-* [Hacksplaining](https://www.hacksplaining.com/)
-* [Infographic -- Cyber Kill Chain](http://cyber.lockheedmartin.com/solutions/cyber-kill-chain) [Deadlink?]
-* [Bugcrowd Tutorials](https://forum.bugcrowd.com/t/researcher-resources-tutorials/370)
-* [Slideshow -- 5 Tools for Better Code Security](http://www.infoworld.com/article/3048399/application-development/5-dev-tools-for-better-code-security.html)
-* [Texas A&M Free Online Courses](https://teex.org/Pages/Program.aspx?catID=231&courseTitle=Cybersecurity)
+## Databases
+* [MongoDB University] (https://university.mongodb.com/)
 
-### Reverse Engineering
-* [Intro to Reverse Engineering](http://www.opensecuritytraining.info/IntroductionToReverseEngineering.html)
-
-### Pentesting
-* [Pentester Academy](http://www.pentesteracademy.com/video)
-* [DDoS Hacking Forum](http://ddoshackingarticles.com/forum.php) [Deadlink?]
-* [Hack Yourself First -- PluralSight](https://www.pluralsight.com/courses/hack-yourself-first)
-
-### CTFs
-* [Pynet](https://pynet.twb-tech.com/)
-* [Offensive Security](https://www.offensive-security.com/metasploit-unleashed/python-extension-2/)
-* [P0wnlabs](http://www.p0wnlabs.com/free/vms)
-* [Vulnhub](https://www.vulnhub.com/)
-* [Rapid 7](https://community.rapid7.com/docs/DOC-2196)
-* [War Games](http://overthewire.org/wargames/)
-* [Net Garage](http://io.netgarage.org/)
-* [Pico CTF](https://picoctf.com/)
-* [Hack This Site](https://www.hackthissite.org)
+## .NET / Microsoft
+* [Hackr.io: ASP.NET Courses](https://hackr.io/tutorials/learn-asp-net)
+* [Learn VisualStudio.NET](http://www.learnvisualstudio.net/)
+* [Microsoft .NET Learn](https://www.microsoft.com/net/learn)
+* [Code School .NET Courses](https://www.codeschool.com/learn/net)
+* [edX Microsoft Courses](https://www.edx.org/school/microsoft)
 
 ## Mobile
 
@@ -92,6 +78,7 @@
 
 ### Git and Github
 * [What is Version Control?](https://www.atlassian.com/git/tutorials/what-is-version-control/)
+* [Github Hello World](https://guides.github.com/activities/hello-world/)
 * [Learn Git Branching -- Visual Tutorial](http://learngitbranching.js.org/)
 * [Github for Developers -- Day 1 (September 22, 2016)](https://vimeo.com/184964934/6eb0748a7b)
 * [Github for Developers -- Day 2 (September 23, 2016)](https://vimeo.com/184964933/ef06c54945)
@@ -135,12 +122,21 @@
 
 ## Jobs
 * [Jr Dev Jobs](https://www.jrdevjobs.com/)
-* [Remote Ok](https://remoteok.io/)
 * [Article -- How to Break into Tech: Job Hunting and Interviews](http://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/#basics)
 * [Article -- What I Look for in a Junior Developer](http://www.codenewbie.org/blogs/what-i-look-for-in-a-junior-developer)
-* [Remote Jobs](https://remotejobs.com/)
-* [Start Up Weekend (Good for Networking locally)](https://startupweekend.org)
 * [2016 Best Places to work in IT (ComputerWorld)](http://www.computerworld.com/article/3083165/bestplaces2016/the-complete-listings-computerworlds-100-best-places-to-work-in-it-for-2016.html)
+
+### Apprenticeships
+* [Kanone](https://www.kanone.com/)
+
+### Remote
+* [Remote Ok](https://remoteok.io/)
+* [Remote Jobs](https://remotejobs.com/)
+
+### Local
+* [Start Up Weekend (Good for Networking locally)](https://startupweekend.org)
+* [Meetup (not technically <i>for</i> jobs, but can help network which can lead to one)](https://www.meetup.com/)
+
 
 ## Certifications
 * [Professor Messer](http://www.professormesser.com)
@@ -151,3 +147,4 @@
 * [Ed Yourdan](https://en.wikipedia.org/wiki/Edward_Yourdon#Publications)
 * [Zero to One](http://buff.ly/2b7sg2E)
 * [Hacking: The Art of Exploitation](https://leaksource.files.wordpress.com/2014/08/hacking-the-art-of-exploitation.pdf)
+* [Safari Books Online](https://www.safaribooksonline.com/our-library/#books)
