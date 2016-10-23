@@ -52,7 +52,6 @@
 * [Structuring the Chief Information Security Officer (CISO) Organization] (https://insights.sei.cmu.edu/sei_blog/2016/02/structuring-the-chief-information-security-officer-ciso-organization.html)
 * [Open Security Architecture] (http://www.opensecurityarchitecture.org/cms/)
 
-
 ### Application Security (Software Security)
 * [OWASP] (https://www.owasp.org/index.php/Main_Page)
 * [Angular Security Guide] (https://docs.angularjs.org/guide/security)
