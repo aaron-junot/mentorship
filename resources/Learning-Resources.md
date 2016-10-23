@@ -162,4 +162,5 @@
 * [The Mythical Man Month](https://archive.org/details/mythicalmanmonth00fred)
 * [The Art of Computer Programming - Vol 1](http://broiler.astrometry.net/~kilian/The_Art_of_Computer_Programming%20-%20Vol%201.pdf)
 * [Thinking Forth](http://thinking-forth.sourceforge.net/)
+* [Learn to Code C with Raspberry Pi](https://www.raspberrypi.org/magpi-issues/Essentials_C_v1.pdf)
 
