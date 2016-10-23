@@ -86,6 +86,7 @@
 ### Linux
 * [Linux Journey](https://linuxjourney.com/)
 * [Linux From Scratch](http://linuxfromscratch.org/)
+* [System Administration](https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/4/html/Introduction_To_System_Administration/index.html)
 
 ### Command Line
 * [Learn the Command Line the Hard Way](http://cli.learncodethehardway.org/book/)
@@ -112,6 +113,7 @@
 * [PluralSight](http://www.pluralsight.com/courses/)
 * [Learn Enough](https://www.learnenough.com/)
 * [Regex](https://regexone.com/)
+* [Aspect Oriented Programming](http://www.onjava.com/pub/a/onjava/2004/01/14/aop.html)
 * [Lifehacker U](http://lifehacker.com/tag/lifehacker-u)
 
 ## Cloud IDEs
@@ -150,3 +152,14 @@
 * [Zero to One](http://buff.ly/2b7sg2E)
 * [Hacking: The Art of Exploitation](https://leaksource.files.wordpress.com/2014/08/hacking-the-art-of-exploitation.pdf)
 * [Safari Books Online](https://www.safaribooksonline.com/our-library/#books)
+* [Debian System Administration](https://debian-handbook.info/browse/stable/)
+* [Project Gutenberg](http://www.gutenberg.org/)
+* [Internet Archive](https://archive.org/)
+* [The Art of Unix Programming](http://www.faqs.org/docs/artu/)
+* [The Cathedral and the Bazaar](http://www.catb.org/esr/writings/cathedral-bazaar/cathedral-bazaar/)
+* [Bash Beginner's Guide](http://www.tldp.org/LDP/Bash-Beginners-Guide/html/)
+* [The C Programming Language](https://hassanolity.files.wordpress.com/2013/11/the_c_programming_language_2.pdf)
+* [The Mythical Man Month](https://archive.org/details/mythicalmanmonth00fred)
+* [The Art of Computer Programming - Vol 1](http://broiler.astrometry.net/~kilian/The_Art_of_Computer_Programming%20-%20Vol%201.pdf)
+* [Thinking Forth](http://thinking-forth.sourceforge.net/)
+
