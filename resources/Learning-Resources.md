@@ -112,6 +112,7 @@
 * [PluralSight](http://www.pluralsight.com/courses/)
 * [Learn Enough](https://www.learnenough.com/)
 * [Regex](https://regexone.com/)
+* [Lifehacker U](http://lifehacker.com/tag/lifehacker-u)
 
 ## Cloud IDEs
 * [Cloud 9](https://c9.io)
