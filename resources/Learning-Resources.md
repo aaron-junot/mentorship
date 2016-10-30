@@ -25,6 +25,7 @@
 * [The Odin Project](http://www.theodinproject.com/courses?ref=home)
 * [Functional programming tutorial](http://research.microsoft.com/en-us/um/people/simonpj/papers/pj-lester-book/)
 * [Microsoft Virtual Academy](https://mva.microsoft.com/)
+* [Data Camp](https://www.datacamp.com/courses) [some courses free, others paid]
 
 ## Practice Coding (multiple languages)
 * [Hacker Rank](https://www.hackerrank.com/)
@@ -38,8 +39,10 @@
 * [HTML5 Tutuorial](https://www.html5rocks.com/en/)
 * [W3schools - HTML, CSS, Javascript tutorials](http://www.w3schools.com/)
 * [HTML/CSS Tutorial -- Shay Howe](http://learn.shayhowe.com/)
+* [HTML Dog](http://www.htmldog.com/)
 * [Eloquent Javascript](http://eloquentjavascript.net)
 * [JavaScript Koans](https://github.com/mrdavidlaing/javascript-koans)
+* [Tutorials on various frameworks](https://scotch.io/tutorials)
 
 ## Back-End Web Development
 * [Ruby Koans](http://github.com/edgecase/ruby_koans)
@@ -87,6 +90,7 @@
 * [Linux Journey](https://linuxjourney.com/)
 * [Linux From Scratch](http://linuxfromscratch.org/)
 * [System Administration](https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/4/html/Introduction_To_System_Administration/index.html)
+* [Linux Tutorials](https://www.linux.com/tutorials)
 
 ### Command Line
 * [Learn the Command Line the Hard Way](http://cli.learncodethehardway.org/book/)
@@ -136,6 +140,7 @@
 ### Remote
 * [Remote Ok](https://remoteok.io/)
 * [Remote Jobs](https://remotejobs.com/)
+* [We Work Remotely](https://weworkremotely.com/)
 
 ### Local
 * [Start Up Weekend (Good for Networking locally)](https://startupweekend.org)

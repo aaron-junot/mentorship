@@ -51,6 +51,7 @@
 * [Texas A&M Free Online Courses](https://teex.org/Pages/Program.aspx?catID=231&courseTitle=Cybersecurity)
 * [Structuring the Chief Information Security Officer (CISO) Organization] (https://insights.sei.cmu.edu/sei_blog/2016/02/structuring-the-chief-information-security-officer-ciso-organization.html)
 * [Open Security Architecture] (http://www.opensecurityarchitecture.org/cms/)
+* [Hack Forums](https://hackforums.net/)
 
 ### Application Security (Software Security)
 * [OWASP] (https://www.owasp.org/index.php/Main_Page)
