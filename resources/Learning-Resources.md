@@ -16,7 +16,7 @@
 * [Crunchzilla](http://www.crunchzilla.com/)
 * [Khan Academy](https://www.khanacademy.org/computing/computer-programming)
 * [CodeSchool](https://www.codeschool.com/)
-* [Udemy](https://www.udemy.com/)
+* [Udemy](https://www.udemy.com/)  --- [Udemy Coupons :-)](https://retailmenot.com/view/udemy.com)
 * [The Code Player](http://thecodeplayer.com/)
 * [Programmr](http://www.programmr.com/)
 * [Code Avengers](https://codeavengers.com)
@@ -26,13 +26,17 @@
 * [Functional programming tutorial](http://research.microsoft.com/en-us/um/people/simonpj/papers/pj-lester-book/)
 * [Microsoft Virtual Academy](https://mva.microsoft.com/)
 * [Data Camp](https://www.datacamp.com/courses) [some courses free, others paid]
+* [Learn.co](https://learn.co/)
 
 ## Practice Coding (multiple languages)
 * [Hacker Rank](https://www.hackerrank.com/)
-* [DevDraft](http://www.devdraft.com/)
 * [Coder Byte](https://coderbyte.com/)
+* [Code Fights](https://codefights.com/)
 * [Code Combat](https://codecombat.com)
 * [CodinGame](https://www.codingame.com/start)
+* [Code RPGify](http://code.rpgify.com/)
+* [DevDraft](http://www.devdraft.com/)
+* [Code Wars](http://www.codewars.com/)
 
 ## Front-End Web Development
 * [Dash - General Assembly](https://dash.generalassemb.ly/)
@@ -43,6 +47,8 @@
 * [Eloquent Javascript](http://eloquentjavascript.net)
 * [JavaScript Koans](https://github.com/mrdavidlaing/javascript-koans)
 * [Tutorials on various frameworks](https://scotch.io/tutorials)
+* [Wes Bos](http://wesbos.com/courses/)
+* [Upskill](http://upskillcourses.com/)
 
 ## Back-End Web Development
 * [Ruby Koans](http://github.com/edgecase/ruby_koans)
@@ -78,7 +84,9 @@
 * [How to Build a PC Step by Step](http://www.pcworld.com/article/2987057/computers/how-to-build-a-pc-a-step-by-step-comprehensive-guide.html)
 
 ## Open Source
+* [How to contribute to Open Source -- Article](https://github.com/FreeCodeCamp/how-to-contribute-to-open-source/blob/master/README.md)
 * [Open Hatch](https://openhatch.org/)
+* [Code Triage](https://www.codetriage.com/)
 
 ### Git and Github
 * [What is Version Control?](https://www.atlassian.com/git/tutorials/what-is-version-control/)
@@ -110,11 +118,18 @@
 ## Veterans
 * [Guild/SA](https://guildsa.org/veterans/)
 * [FedVTE](https://fedvte.usalearning.gov/)
+* [Veterati (Mentorship)](https://www.veterati.com/)
+* [Job board for Vets](http://casy.msccn.org/)
+* [American Dream U](http://americandreamu.org/about/)
+* [Hire Heroes Training Programs](https://www.hireheroesusa.org/training-programs/)
+* [Learn AWS for Free from Amazon](https://aws.amazon.com/education/awseducate/veterans/)
 
 ## Misc Learning
+* [edX](https://www.edx.org/)
+* [Coursera](https://www.coursera.org/)
+* [Udacity](https://www.udacity.com/) -- [Check out Udacity Blitz too](https://blitz.com/)
 * [OSS University](https://ossu.firebaseapp.com/#/curriculum)
 * [MIT Free Courses](https://ocw.mit.edu/index.htm)
-* [Udacity](https://www.udacity.com/)
 * [PluralSight](http://www.pluralsight.com/courses/)
 * [Learn Enough](https://www.learnenough.com/)
 * [Regex](https://regexone.com/)
@@ -130,10 +145,13 @@
 * [Docker Tutorial](https://prakhar.me/docker-curriculum)
 
 ## Jobs
+* [Technical Interview Prep -- Video](https://www.youtube.com/watch?v=qIi-tIrcaww&feature=em-lss)
+* [TripleByte](https://triplebyte.com/)
 * [Jr Dev Jobs](https://www.jrdevjobs.com/)
 * [Article -- How to Break into Tech: Job Hunting and Interviews](http://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/#basics)
 * [Article -- What I Look for in a Junior Developer](http://www.codenewbie.org/blogs/what-i-look-for-in-a-junior-developer)
 * [2016 Best Places to work in IT (ComputerWorld)](http://www.computerworld.com/article/3083165/bestplaces2016/the-complete-listings-computerworlds-100-best-places-to-work-in-it-for-2016.html)
+* [CASY (Corporate America Supports You) Job Board](http://casy.msccn.org)
 
 ### Apprenticeships
 * [Kanone](https://www.kanone.com/)
@@ -142,17 +160,27 @@
 * [Remote Ok](https://remoteok.io/)
 * [Remote Jobs](https://remotejobs.com/)
 * [We Work Remotely](https://weworkremotely.com/)
+* [WFH.io](https://www.wfh.io/)
 
 ### Local
 * [Start Up Weekend (Good for Networking locally)](https://startupweekend.org)
 * [Meetup (not technically <i>for</i> jobs, but can help network which can lead to one)](https://www.meetup.com/)
 
+## Mentorship
+* [Operation Code](
+* [CodeMentor](https://www.codementor.io/)
+* [HackHands](https://hackhands.com/)
+
+## Podcasts
+* [Top 20 podcasts for Devs](http://www.ettaingroup.com/Blog/ettain-group-Blog/June-2016/20-Best-Podcasts-for-Developers#DetailTop)
+* [Breaking into Startups](http://breakingintostartups.com/edgar-pabon/)
 
 ## Certifications
 * [Professor Messer](http://www.professormesser.com)
 
 ## Books
 * [Free Programming Books](https://github.com/vhf/free-programming-books)
+* [The Computer Revolution (Wikibook on all things computers)](https://en.wikibooks.org/wiki/The_Computer_Revolution)
 * [Teach Your Kids to Code](http://teachyourkidstocode.com/)
 * [Ed Yourdan](https://en.wikipedia.org/wiki/Edward_Yourdon#Publications)
 * [Zero to One](http://buff.ly/2b7sg2E)
@@ -169,4 +197,5 @@
 * [The Art of Computer Programming - Vol 1](http://broiler.astrometry.net/~kilian/The_Art_of_Computer_Programming%20-%20Vol%201.pdf)
 * [Thinking Forth](http://thinking-forth.sourceforge.net/)
 * [Learn to Code C with Raspberry Pi](https://www.raspberrypi.org/magpi-issues/Essentials_C_v1.pdf)
+* [Programming JavaScript Applications](http://pdf.th7.cn/down/files/1411/Programming%20JavaScript%20Applications.pdf)
 

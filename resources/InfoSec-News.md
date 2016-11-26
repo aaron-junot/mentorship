@@ -52,6 +52,7 @@
 * [Structuring the Chief Information Security Officer (CISO) Organization] (https://insights.sei.cmu.edu/sei_blog/2016/02/structuring-the-chief-information-security-officer-ciso-organization.html)
 * [Open Security Architecture] (http://www.opensecurityarchitecture.org/cms/)
 * [Hack Forums](https://hackforums.net/)
+* [XSS Game](https://xss-game.appspot.com/)
 
 ### Application Security (Software Security)
 * [OWASP] (https://www.owasp.org/index.php/Main_Page)
@@ -75,6 +76,7 @@
 * [Pentester Academy](http://www.pentesteracademy.com/video)
 * [DDoS Hacking Forum](http://ddoshackingarticles.com/forum.php) [Deadlink?]
 * [Hack Yourself First -- PluralSight](https://www.pluralsight.com/courses/hack-yourself-first)
+* [Pentest Bookmarks](https://github.com/jhaddix/pentest-bookmarks/blob/master/wiki/BookmarksList.wiki)
 
 ### Vulnerable Apps/VM's
 * [Vulnerable Node] (https://github.com/cr0hn/vulnerable-node)
