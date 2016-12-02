@@ -110,9 +110,9 @@ All Operation Code mentors are invited to join our private channel where mentors
 
 ### Initial Sign-up / Pre First Meeting
 
-1. The request will be reviewed and someone matching the skills requested, who has not reached the two mentee limit, should pick up the request within 24 hours
+1. The request will be reviewed and someone matching the skills requested, who has not reached the two mentee limit, should pick up the request within 24 hours.
 
-2. The mentor should update the spreadsheet pinned to the mentor channel, adding: 
+2. The mentor should update the spreadsheet pinned to the #mentors-internal channel, adding: 
 
     1. the mentees contact information
 
