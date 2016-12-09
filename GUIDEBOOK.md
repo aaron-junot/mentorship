@@ -2,7 +2,7 @@
 
 ## **Background of Operation Code**
 
-Veteran-founded, and led, Operation Code is on a mission to get active military, citizen-soldiers, veterans and their families coding and building software to change the world.
+Veteran-founded and led, Operation Code is on a mission to help the military community learn software development, enter the tech industry, and code the ffuture!
 
 Operation Code's Software Mentorship Program connects transitioning military, citizen-soldiers, veterans and their families of all levels with professional software developers for lifelong learning and understanding. Paired online in our peer-to-peer learning environment, you can select any programming language/stack of your choice, including:
 
@@ -138,7 +138,7 @@ All Operation Code mentors are invited to join our private channel where mentors
 
     7. Tell the mentee that they need to find them another mentor and pass them on to an open mentor
 
-8. Once the mentee and mentor start communicating they should set up a time for their first voice discussion to fill out the First Meeting Checklist, which should then be uploaded to the Mentor file on Google Drive
+8. Once the mentee and mentor start communicating they should set up a time for their first voice discussion to fill out the First Meeting Checklist, which should then be added to their Mentor entry on Airtable.
 
 9. At this point the mentor should update the status of the master spreadsheet to "in progress"
 
@@ -170,7 +170,7 @@ All Operation Code mentors are invited to join our private channel where mentors
 
     11. If no contact can be reestablished with the mentor after five attempts over two weeks the Program Coordinator should revoke the mentor’s status and reassign the mentee
 
-13. After the first month of work, the mentor and mentee should evaluate progress by filling out the Monthly Check-in document, which should be uploaded to the Mentor file on Google Drive when complete
+13. After the first month of work, the mentor and mentee should evaluate progress by filling out the Monthly Check-in document, which should be uploaded to the Mentor entry on Airtable when complete.
 
 14. When the commitment date initially agreed upon when the First Meeting Checklist was completed is hit the mentor and mentee should have a Closing Meeting to:
 
@@ -214,7 +214,7 @@ Look forward to hearing from you!
 
 ### First Meeting Checklist
 
-After setting up the first meeting with your new mentee, the below checklist can be used as a guide for structuring the conversation. You should try to ask the mentee each of the questions, but not necessarily in this order (e.g. try to not make the conversation a job interview but a conversation!). Mentors should take notes and upload this page to the mentors folder on Google Drive.
+After setting up the first meeting with your new mentee, the below checklist can be used as a guide for structuring the conversation. You should try to ask the mentee each of the questions, but not necessarily in this order (e.g. try to not make the conversation a job interview but a conversation!). Mentors should take notes and upload this page to their mentor entry on Airtable.
 
 ##### General Information
 
