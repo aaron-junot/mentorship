@@ -28,9 +28,9 @@ The purpose of this guidebook is to give mentors an outline of what is expected 
 
 ## **Mentor Responsibilities**
 
-Mentors are supposed to be knowledgeable in one or more specific topic areas and have the skills to effectively communicate with their mentee. Along with these characteristics, Operation Code expects mentors to:
+Mentors should be knowledgeable in one or more specific topic areas and have the skills to effectively communicate with their mentee. Along with these characteristics, Operation Code expects mentors to:
 
-1. Always act as an ambassador of Operation Code, and be able and willing to speak about our mission and message.
+1. Act as an ambassador of Operation Code, and be able and willing to speak about our mission and message.
 
 2. Agree to facilitate a monthly conversation (minimum 30 minutes) with their mentee via phone or online chat
 
@@ -82,13 +82,13 @@ Mentees are supposed to be passionate about learning or improving their skills, 
 
 10. Be willing to show current work in order to obtain feedback
 
-## **Matching and Standard Operating Procedures**
+## **Standard Operating Procedures**
 
-All Operation Code mentors are invited to join our private channel where mentors and staff can discuss topics ranging from who's mentoring, how are things going, and how can we improve the program. All information shared in the channel regarding a mentee should be anonymous and confidential. Mentors should not be mentoring more than two mentees at one time.
+All Operation Code mentors are invited to join our private channel, #mentors-internal where mentors and staff can discuss topics ranging from who's mentoring, how are things going, and how can we improve the program. All information shared in the channel regarding a mentee should be anonymous and confidential.
 
 ### Initial Sign-up / Pre First Meeting
 
-1. The request will be reviewed and someone matching the skills requested, who has not reached the two mentee limit, should pick up the request within 24 hours.
+1. The request will be reviewed, and a mentor matching the skills requested should pick up the request within 24 hours.
 
 2. The mentor should update the spreadsheet pinned to the #mentors-internal channel, adding: 
 
