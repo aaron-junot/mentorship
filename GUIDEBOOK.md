@@ -2,47 +2,25 @@
 
 ## **Background of Operation Code**
 
-Veteran-founded and led, Operation Code is on a mission to help the military community learn software development, enter the tech industry, and code the ffuture!
+Operation Code is on a mission to help the military community learn software development, enter the tech industry, and code the future! Our Mentorship Program connects veterans and the military community with tech industry professionals, for lifelong learning. Working together in our online community, you can select any programming skillset / tech stack of your choice, including:
 
-Operation Code's Software Mentorship Program connects transitioning military, citizen-soldiers, veterans and their families of all levels with professional software developers for lifelong learning and understanding. Paired online in our peer-to-peer learning environment, you can select any programming language/stack of your choice, including:
+* Web Development
+ * Ruby/Rails
+ * Python
+ * HTML/CSS
+ 
+* Mobile Development
+ * Java (Android)
+ * Objective C and Swift (iOS)
 
-* Android
-
+* C, C++
 * C#
-
-* Ember
-
-* Go
-
-* HTML/CSS
-
-* iOS
-
-* Java
-
-* JavaScript
-
-* PHP
-
-* Python
-
-* Ruby and Ruby on Rails
-
-* React
-
-* SASS and CSS
-
-* Node
-
-* Static-Sites, including Jekyll, Middleman
-
-* Test Automation
 
 ## **Statement of Purpose**
 
-The Mentor Program is a cornerstone of Operation Code’s non-profit mission to get members of the military, veterans, and their family members coding and into software development careers. Our Mentor Program aims to:
+The Mentorship Program is a cornerstone of Operation Code’s mission to get members of the military, veterans, and their family members coding and into software development careers. Our Mentorship Program aims to:
 
-1. Offer professionals who are currently employed as a software developer or related field opportunities to serve, by helping veterans, military personnel, and their families learn to code.
+1. Offer opportunities to serve, for professionals in the tech industry, by helping veterans and the military community learn to code.
 
 2. Give military veterans, servicemembers, and their families a chance to link up with someone who is knowledgeable in a specific field of interest - regardless if they're just starting on their journey or are looking to brush up on new skills.
 
