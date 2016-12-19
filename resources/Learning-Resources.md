@@ -27,6 +27,8 @@
 * [Microsoft Virtual Academy](https://mva.microsoft.com/)
 * [Data Camp](https://www.datacamp.com/courses) [some courses free, others paid]
 * [Learn.co](https://learn.co/)
+* [pine.fm](https://pine.fm/LearnToProgram/chap_00.html)
+* [Revature](https://revature.com/revatureonline.html)
 
 ## Practice Coding (multiple languages)
 * [Hacker Rank](https://www.hackerrank.com/)
@@ -37,6 +39,7 @@
 * [Code RPGify](http://code.rpgify.com/)
 * [DevDraft](http://www.devdraft.com/)
 * [Code Wars](http://www.codewars.com/)
+* [Hacker Earth](http://hackerearth.com/)
 
 ## Front-End Web Development
 * [Dash - General Assembly](https://dash.generalassemb.ly/)
@@ -49,6 +52,10 @@
 * [Tutorials on various frameworks](https://scotch.io/tutorials)
 * [Wes Bos](http://wesbos.com/courses/)
 * [Upskill](http://upskillcourses.com/)
+* [Functional Programming in JavaScript](http://reactivex.io/learnrx/)
+* [JavaScript Allonge](https://leanpub.com/javascriptallongesix/read)
+* [JavaScript 30](https://javascript30.com/)
+
 
 ## Back-End Web Development
 * [Ruby Koans](http://github.com/edgecase/ruby_koans)
@@ -56,6 +63,7 @@
 * [Learn Ruby The Hard Way](http://learnrubythehardway.org/book)
 * [Learn Python The Hard Way](https://learnpythonthehardway.org/book/)
 * [Node School](http://nodeschool.io/)
+* [Node.university](http://node.university/courses)
 
 ## Databases
 * [MongoDB University] (https://university.mongodb.com/)
@@ -76,6 +84,9 @@
 
 ### Android
 * [Udacity Android Curriculum](https://github.com/Enteleform/-RES-/blob/master/%5BLinks%5D/%5BAndroid%5D%20Udacity%20Curriculum.md)
+
+## AI and Machine Learning
+* [AI Books](http://alumni.media.mit.edu/~jorkin/aibooks.html)
 
 ## UX/UI
 * [How to Get Started in UX Design](http://uxmastery.com/how-to-get-started-in-ux-design/)
@@ -135,6 +146,9 @@
 * [Regex](https://regexone.com/)
 * [Aspect Oriented Programming](http://www.onjava.com/pub/a/onjava/2004/01/14/aop.html)
 * [Lifehacker U](http://lifehacker.com/tag/lifehacker-u)
+* [Best Free Online Classes of All Time](https://www.class-central.com/collection/top-free-online-courses?subject=cs&sort=rating-up)
+* [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code)
+* [Google Interview University](https://github.com/jwasham/google-interview-university)
 
 ## Cloud IDEs
 * [Cloud 9](https://c9.io)
@@ -149,9 +163,13 @@
 * [TripleByte](https://triplebyte.com/)
 * [Jr Dev Jobs](https://www.jrdevjobs.com/)
 * [Article -- How to Break into Tech: Job Hunting and Interviews](http://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/#basics)
+* [Article -- on what questions to ask in an interview](http://ventureforamerica.org/blog/questionable-questions-avoid-without-question/)
 * [Article -- What I Look for in a Junior Developer](http://www.codenewbie.org/blogs/what-i-look-for-in-a-junior-developer)
+* [Article -- Post Boot-camp job search](https://medium.freecodecamp.com/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331#.qqnl5nkov)
 * [2016 Best Places to work in IT (ComputerWorld)](http://www.computerworld.com/article/3083165/bestplaces2016/the-complete-listings-computerworlds-100-best-places-to-work-in-it-for-2016.html)
 * [CASY (Corporate America Supports You) Job Board](http://casy.msccn.org)
+* [Freelancing advice from Eric Dodd](https://github.com/ericdodds/the-little-freelancer)
+* [Careerscore.com](https://careerscore.com/)
 
 ### Apprenticeships
 * [Kanone](https://www.kanone.com/)
@@ -198,4 +216,6 @@
 * [Thinking Forth](http://thinking-forth.sourceforge.net/)
 * [Learn to Code C with Raspberry Pi](https://www.raspberrypi.org/magpi-issues/Essentials_C_v1.pdf)
 * [Programming JavaScript Applications](http://pdf.th7.cn/down/files/1411/Programming%20JavaScript%20Applications.pdf)
+* [Angular 2 book](https://angular-2-training-book.rangle.io)
+* [Programming from the Ground Up](http://mirror.cedia.org.ec/nongnu//pgubook/ProgrammingGroundUp-1-0-booksize.pdf)
 
