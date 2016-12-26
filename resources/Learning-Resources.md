@@ -29,6 +29,7 @@
 * [Learn.co](https://learn.co/)
 * [pine.fm](https://pine.fm/LearnToProgram/chap_00.html)
 * [Revature](https://revature.com/revatureonline.html)
+* [Watch and Code](https://watchandcode.com/)
 
 ## Practice Coding (multiple languages)
 * [Hacker Rank](https://www.hackerrank.com/)
@@ -185,7 +186,7 @@
 * [Meetup (not technically <i>for</i> jobs, but can help network which can lead to one)](https://www.meetup.com/)
 
 ## Mentorship
-* [Operation Code](
+* [Operation Code](https://operationcode.org/)
 * [CodeMentor](https://www.codementor.io/)
 * [HackHands](https://hackhands.com/)
 
@@ -218,4 +219,5 @@
 * [Programming JavaScript Applications](http://pdf.th7.cn/down/files/1411/Programming%20JavaScript%20Applications.pdf)
 * [Angular 2 book](https://angular-2-training-book.rangle.io)
 * [Programming from the Ground Up](http://mirror.cedia.org.ec/nongnu//pgubook/ProgrammingGroundUp-1-0-booksize.pdf)
+* [Computer Science from the Bottom Up](http://feederio.com/book/33/computer-science-from-the-bottom-up)
 
