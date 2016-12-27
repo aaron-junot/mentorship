@@ -2,47 +2,25 @@
 
 ## **Background of Operation Code**
 
-Veteran-founded, and led, Operation Code is on a mission to get active military, citizen-soldiers, veterans and their families coding and building software to change the world.
+Operation Code is on a mission to help the military community learn software development, enter the tech industry, and code the future! Our Mentorship Program connects veterans and the military community with tech industry professionals, for lifelong learning. Working together in our online community, you can select any programming skillset / tech stack of your choice, including:
 
-Operation Code's Software Mentorship Program connects transitioning military, citizen-soldiers, veterans and their families of all levels with professional software developers for lifelong learning and understanding. Paired online in our peer-to-peer learning environment, you can select any programming language/stack of your choice, including:
+* Web Development
+ * Ruby/Rails
+ * Python
+ * HTML/CSS
+ 
+* Mobile Development
+ * Java (Android)
+ * Objective C and Swift (iOS)
 
-* Android
-
+* C, C++
 * C#
-
-* Ember
-
-* Go
-
-* HTML/CSS
-
-* iOS
-
-* Java
-
-* JavaScript
-
-* PHP
-
-* Python
-
-* Ruby and Ruby on Rails
-
-* React
-
-* SASS and CSS
-
-* Node
-
-* Static-Sites, including Jekyll, Middleman
-
-* Test Automation
 
 ## **Statement of Purpose**
 
-The Mentor Program is a cornerstone of Operation Code’s non-profit mission to get members of the military, veterans, and their family members coding and into software development careers. Our Mentor Program aims to:
+The Mentorship Program is a cornerstone of Operation Code’s mission to get members of the military, veterans, and their family members coding and into software development careers. Our Mentorship Program aims to:
 
-1. Offer professionals who are currently employed as a software developer or related field opportunities to serve, by helping veterans, military personnel, and their families learn to code.
+1. Offer opportunities to serve, for professionals in the tech industry, by helping veterans and the military community learn to code.
 
 2. Give military veterans, servicemembers, and their families a chance to link up with someone who is knowledgeable in a specific field of interest - regardless if they're just starting on their journey or are looking to brush up on new skills.
 
@@ -50,9 +28,9 @@ The purpose of this guidebook is to give mentors an outline of what is expected 
 
 ## **Mentor Responsibilities**
 
-Mentors are supposed to be knowledgeable in one or more specific topic areas and have the skills to effectively communicate with their mentee. Along with these characteristics, Operation Code expects mentors to:
+Mentors should be knowledgeable in one or more specific topic areas and have the skills to effectively communicate with their mentee. Along with these characteristics, Operation Code expects mentors to:
 
-1. Always act as an ambassador of Operation Code, and be able and willing to speak about our mission and message.
+1. Act as an ambassador of Operation Code, and be able and willing to speak about our mission and message.
 
 2. Agree to facilitate a monthly conversation (minimum 30 minutes) with their mentee via phone or online chat
 
@@ -104,15 +82,15 @@ Mentees are supposed to be passionate about learning or improving their skills, 
 
 10. Be willing to show current work in order to obtain feedback
 
-## **Matching and Standard Operating Procedures**
+## **Standard Operating Procedures**
 
-All Operation Code mentors are invited to join our private channel where mentors and staff can discuss topics ranging from who's mentoring, how are things going, and how can we improve the program. All information shared in the channel regarding a mentee should be anonymous and confidential. Mentors should not be mentoring more than two mentees at one time.
+All Operation Code mentors are invited to join our private channel, #mentors-internal where mentors and staff can discuss topics ranging from who's mentoring, how are things going, and how can we improve the program. All information shared in the channel regarding a mentee should be anonymous and confidential.
 
 ### Initial Sign-up / Pre First Meeting
 
-1. The request will be reviewed and someone matching the skills requested, who has not reached the two mentee limit, should pick up the request within 24 hours
+1. The request will be reviewed, and a mentor matching the skills requested should pick up the request within 24 hours.
 
-2. The mentor should update the spreadsheet pinned to the mentor channel, adding: 
+2. The mentor should update the spreadsheet pinned to the #mentors-internal channel, adding: 
 
     1. the mentees contact information
 
@@ -138,7 +116,7 @@ All Operation Code mentors are invited to join our private channel where mentors
 
     7. Tell the mentee that they need to find them another mentor and pass them on to an open mentor
 
-8. Once the mentee and mentor start communicating they should set up a time for their first voice discussion to fill out the First Meeting Checklist, which should then be uploaded to the Mentor file on Google Drive
+8. Once the mentee and mentor start communicating they should set up a time for their first voice discussion to fill out the First Meeting Checklist, which should then be added to their Mentor entry on Airtable.
 
 9. At this point the mentor should update the status of the master spreadsheet to "in progress"
 
@@ -170,7 +148,7 @@ All Operation Code mentors are invited to join our private channel where mentors
 
     11. If no contact can be reestablished with the mentor after five attempts over two weeks the Program Coordinator should revoke the mentor’s status and reassign the mentee
 
-13. After the first month of work, the mentor and mentee should evaluate progress by filling out the Monthly Check-in document, which should be uploaded to the Mentor file on Google Drive when complete
+13. After the first month of work, the mentor and mentee should evaluate progress by filling out the Monthly Check-in document, which should be uploaded to the Mentor entry on Airtable when complete.
 
 14. When the commitment date initially agreed upon when the First Meeting Checklist was completed is hit the mentor and mentee should have a Closing Meeting to:
 
@@ -214,7 +192,7 @@ Look forward to hearing from you!
 
 ### First Meeting Checklist
 
-After setting up the first meeting with your new mentee, the below checklist can be used as a guide for structuring the conversation. You should try to ask the mentee each of the questions, but not necessarily in this order (e.g. try to not make the conversation a job interview but a conversation!). Mentors should take notes and upload this page to the mentors folder on Google Drive.
+After setting up the first meeting with your new mentee, the below checklist can be used as a guide for structuring the conversation. You should try to ask the mentee each of the questions, but not necessarily in this order (e.g. try to not make the conversation a job interview but a conversation!). Mentors should take notes and upload this page to their mentor entry on Airtable.
 
 ##### General Information
 

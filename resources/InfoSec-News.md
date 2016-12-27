@@ -51,6 +51,8 @@
 * [Texas A&M Free Online Courses](https://teex.org/Pages/Program.aspx?catID=231&courseTitle=Cybersecurity)
 * [Structuring the Chief Information Security Officer (CISO) Organization] (https://insights.sei.cmu.edu/sei_blog/2016/02/structuring-the-chief-information-security-officer-ciso-organization.html)
 * [Open Security Architecture] (http://www.opensecurityarchitecture.org/cms/)
+* [Hack Forums](https://hackforums.net/)
+* [XSS Game](https://xss-game.appspot.com/)
 
 ### Application Security (Software Security)
 * [OWASP] (https://www.owasp.org/index.php/Main_Page)
@@ -70,10 +72,14 @@
 ### Reverse Engineering
 * [Intro to Reverse Engineering](http://www.opensecuritytraining.info/IntroductionToReverseEngineering.html)
 
+### Cryptography
+* [Crypto101](https://www.crypto101.io/)
+
 ### Pentesting
 * [Pentester Academy](http://www.pentesteracademy.com/video)
 * [DDoS Hacking Forum](http://ddoshackingarticles.com/forum.php) [Deadlink?]
 * [Hack Yourself First -- PluralSight](https://www.pluralsight.com/courses/hack-yourself-first)
+* [Pentest Bookmarks](https://github.com/jhaddix/pentest-bookmarks/blob/master/wiki/BookmarksList.wiki)
 
 ### Vulnerable Apps/VM's
 * [Vulnerable Node] (https://github.com/cr0hn/vulnerable-node)

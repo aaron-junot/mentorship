@@ -33,6 +33,7 @@ By the end of this lesson, students will be able to:
 
 ## Materials
 - Guide introducing [GitHub Flow](https://guides.github.com/introduction/flow/)
+- Learn git by Michael Hartl's [Learn Enough Git to be Dangerous](https://www.learnenough.com/git-tutorial)
 - Illustrations on [Version Control Systems](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control) and on [Committing and History](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics) from *Pro Git*
 - [Training Kit](https://services.github.com/kit/) and its [repo](https://github.com/github/training-kit)
 - [Training Utilities](https://github.com/github/training-utils)
