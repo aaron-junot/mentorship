@@ -13,6 +13,9 @@
 * [Watch and Code](https://watchandcode.com/)
 * [Regex](https://regexone.com/)
 
+## Free for Vets
+* [Lynda.com -- 1 year free video tutorials subscription](https://blog.linkedin.com/2015/11/11/honoring-our-service-members-veterans-with-1-year-free-learning-on-lynda-com)
+
 ## Free Classes
 * [Free Code Camp](http://freecodecamp.com/)
 * [Rithm School](https://www.rithmschool.com/courses)
