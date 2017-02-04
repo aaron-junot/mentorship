@@ -53,6 +53,7 @@
 * [Open Security Architecture] (http://www.opensecurityarchitecture.org/cms/)
 * [Hack Forums](https://hackforums.net/)
 * [XSS Game](https://xss-game.appspot.com/)
+* [KaliLinux.co](http://kalilinux.co/)
 
 ### Application Security (Software Security)
 * [OWASP] (https://www.owasp.org/index.php/Main_Page)

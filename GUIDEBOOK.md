@@ -7,6 +7,8 @@ Operation Code is on a mission to help the military community learn software dev
 * Web Development
  * Ruby/Rails
  * Python
+ * Node.js
+ * Front-end Javascript
  * HTML/CSS
  
 * Mobile Development
@@ -18,9 +20,9 @@ Operation Code is on a mission to help the military community learn software dev
 
 ## **Statement of Purpose**
 
-The Mentorship Program is a cornerstone of Operation Code’s mission to get members of the military, veterans, and their family members coding and into software development careers. Our Mentorship Program aims to:
+The Mentorship Program is a cornerstone of Operation Code’s mission to get the military community into software development careers. Our Mentorship Program aims to:
 
-1. Offer opportunities to serve, for professionals in the tech industry, by helping veterans and the military community learn to code.
+1. Offer opportunities to serve, for professionals in the tech industry, by helping the military community learn to code.
 
 2. Give military veterans, servicemembers, and their families a chance to link up with someone who is knowledgeable in a specific field of interest - regardless if they're just starting on their journey or are looking to brush up on new skills.
 
