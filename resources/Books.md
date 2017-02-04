@@ -49,3 +49,6 @@
 ## Python
 * [Article -- 19 Free Python Books](https://medium.mybridge.co/19-free-ebooks-to-learn-programming-with-python-8f6f0ad4a7f8?gi=3cd835d59f6e#.ja176d9ih)
 
+## PHP
+* [Modern PHP](http://pdf.th7.cn/down/files/1502/Modern%20PHP.pdf)
+

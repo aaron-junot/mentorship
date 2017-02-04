@@ -1,6 +1,8 @@
 # Front-End Web Development
 
 * [Dash - General Assembly](https://dash.generalassemb.ly/)
+* [Bento.io](https://bento.io/)
+* [Front End Masters](https://frontendmasters.com/) -- free trials
 
 ## HTML and CSS
 * [HTML5 Tutuorial](https://www.html5rocks.com/en/)
@@ -17,6 +19,8 @@
 * [Wes Bos](http://wesbos.com/courses/)
 * [Upskill](http://upskillcourses.com/)
 * [Exploring Javascript](http://exploringjs.com/)
+* [JS the Right Way](http://jstherightway.org/)
+* [React Basics (blog post)](https://medium.com/@eperiou/react-basics-19e43be02236#.uk61hqa6m)
 
 ## Multiple Frameworks
 * [scotch.io](https://scotch.io/tutorials)
