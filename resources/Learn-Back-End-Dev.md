@@ -1,5 +1,7 @@
 # Back-End Web Development
 
+* [Bento.io](https://bento.io/)
+
 ## Ruby
 * [Ruby Koans](http://github.com/edgecase/ruby_koans)
 * [Ruby on Rails Tutorial](https://www.railstutorial.org/book)
@@ -20,3 +22,6 @@
 
 ## R
 * [Beginner's guide to R](http://core0.staticworld.net/assets/2015/02/20/r4beginners_v3.pdf)
+
+## Query Languages
+* [LearnGraphQL](https://learngraphql.com/)

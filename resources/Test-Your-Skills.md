@@ -10,3 +10,4 @@
 * [Code RPGify](http://code.rpgify.com/)
 * [DevDraft](http://www.devdraft.com/)
 * [Hacker Earth](http://hackerearth.com/)
+* [Core Wars](http://www.corewars.org/)

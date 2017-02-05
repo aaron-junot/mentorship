@@ -38,3 +38,12 @@
 
 ## General Career Help
 * [The Muse](https://www.themuse.com/) -- paid resource
+
+## Resume
+* [StandardResume.co](https://standardresume.co/)
+* [CareerCup](https://www.careercup.com/resume)
+* [Hire Heroes USA](https://www.hireheroesusa.org/)
+
+## Portfolio
+* [Git Show Case](https://www.gitshowcase.com/)
+

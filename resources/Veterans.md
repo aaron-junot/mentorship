@@ -14,3 +14,4 @@
 * [Onward To Opportunity](http://onward2opportunity.org/)
 * [IVMF (Syracuse.edu)] (https://ivmf.syracuse.edu/)
 * [AWS Educate] (https://aws.amazon.com/education/awseducate/veterans/)
+* [Microsoft Software & Systems Academy (MSSA) scholarship](http://military.microsoft.com/training/mssa/)

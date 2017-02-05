@@ -7,6 +7,9 @@
 ## Git and Github
 * [What is Version Control?](https://www.atlassian.com/git/tutorials/what-is-version-control/)
 * [Github Hello World](https://guides.github.com/activities/hello-world/)
+* [Github Flow introduction](https://guides.github.com/introduction/flow/)
+* [Beginner Git Tutorial](https://youtu.be/ltzQbZrWLds)
+* [Github Tutorial](https://youtu.be/KMH1mImE0UE)
 * [Learn Git Branching -- Visual Tutorial](http://learngitbranching.js.org/)
 * [Github for Developers -- Day 1 (September 22, 2016)](https://vimeo.com/184964934/6eb0748a7b)
 * [Github for Developers -- Day 2 (September 23, 2016)](https://vimeo.com/184964933/ef06c54945)
