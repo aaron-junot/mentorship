@@ -12,6 +12,7 @@
 * [Learn Python The Hard Way](https://learnpythonthehardway.org/book/)
 * [Real Python](https://realpython.com/) -- paid resource
 * [Advanced Python Programing](https://rmotr.com/advanced-python-programming) -- paid resource
+* [Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/)
 
 ## JavaScript
 * [Node School](http://nodeschool.io/)
@@ -19,6 +20,7 @@
 
 ## Databases
 * [MongoDB University] (https://university.mongodb.com/)
+* [SQL Bolt](https://sqlbolt.com/)
 
 ## R
 * [Beginner's guide to R](http://core0.staticworld.net/assets/2015/02/20/r4beginners_v3.pdf)

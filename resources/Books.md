@@ -2,6 +2,8 @@
 
 ## General Programming
 * [Free Programming Books](https://github.com/vhf/free-programming-books)
+* [More Free Programming Books](https://www.packtpub.com/packt/offers/free-learning)
+* [Free Tech Books](http://www.freetechbooks.com/)
 * [Programming from the Ground Up](http://mirror.cedia.org.ec/nongnu//pgubook/ProgrammingGroundUp-1-0-booksize.pdf)
 * [Teach Your Kids to Code](http://teachyourkidstocode.com/)
 * [Ed Yourdan Books](https://en.wikipedia.org/wiki/Edward_Yourdon#Publications)
