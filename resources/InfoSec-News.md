@@ -54,6 +54,8 @@
 * [Hack Forums](https://hackforums.net/)
 * [XSS Game](https://xss-game.appspot.com/)
 * [KaliLinux.co](http://kalilinux.co/)
+* [Armitage (fast and easy hacking)](http://www.fastandeasyhacking.com/)
+* [Cyber Training 365](https://www.cybertraining365.com/cybertraining) -- Paid resource
 
 ### Application Security (Software Security)
 * [OWASP] (https://www.owasp.org/index.php/Main_Page)
@@ -87,6 +89,9 @@
 * [pwnableweb] (https://github.com/Matir/pwnableweb)
 * [Webgoat](https://www.owasp.org/index.php/Category:OWASP_WebGoat_Project)
 * [OWASP-VWAD] (https://github.com/OWASP/OWASP-VWAD)
+* [Smash The Stack](http://smashthestack.org/)
+* [Crypto Pals](http://cryptopals.com/)
+* [Cobalt Strike](https://www.cobaltstrike.com/)
 
 ### CTFs
 * [Pynet](https://pynet.twb-tech.com/)

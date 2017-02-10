@@ -17,6 +17,7 @@
 ### Apprenticeships
 * [Kanone](https://www.kanone.com/)
 * [Coding Internships](https://codinginternships.com/)
+* [Google Summer of Code](https://developers.google.com/open-source/gsoc/)
 
 ## Freelancing
 * [Freelancing advice from Eric Dodd](https://github.com/ericdodds/the-little-freelancer)
@@ -43,6 +44,9 @@
 * [StandardResume.co](https://standardresume.co/)
 * [CareerCup](https://www.careercup.com/resume)
 * [Hire Heroes USA](https://www.hireheroesusa.org/)
+
+## Interview
+* [CS Career Questions (Reddit)](http://reddit.com/r/cscareerquestions)
 
 ## Portfolio
 * [Git Show Case](https://www.gitshowcase.com/)
