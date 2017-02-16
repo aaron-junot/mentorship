@@ -16,7 +16,7 @@ Operation Code is on a mission to help the military community learn software dev
  * Objective C and Swift (iOS)
 
 * C, C++
-* C#
+* C# / .NET
 
 ## **Statement of Purpose**
 
@@ -210,13 +210,13 @@ After setting up the first meeting with your new mentee, the below checklist can
 
 * Languages and/or skills they already possess 
 
-##### Getting to Know Each Other
+#### Getting to Know Each Other
 
 * Mentor should share some information about their military,  personal, and/or professional life
 
 * Try to learn something new about your mentee on a personal level
 
-##### Goals and Expectations
+#### Goals and Expectations
 
 * Why did the mentee join Operation Code?
 
@@ -244,7 +244,39 @@ After setting up the first meeting with your new mentee, the below checklist can
 
 * Would the mentee be interested in participating in mock interviews?
 
-##### Moving Forward
+##### Mentee Goal Setting 
+
+“SMART” goals are a valuable framework for setting and successfully achieving effective goals. The idea is that goals should be:
+- Specific: The goal should be clear and well-defined.
+- Measurable: It should be possible to know when you’ve achieved your goal.
+- Actionable: It should be something you can take action on now.
+- Realistic: It should be possible within the bounds of your available time and resources.
+- Time-bound: There should be a deadline. (See ‘realistic’ again. :) )
+
+By using this framework, you can transform goals from vague, unrealistic or difficult to achieve to precise and effective.
+
+So instead of: My goal is to get better at Python.
+
+You might try: My goal is to read one Python-related book every month., or My goal is to give a technical talk on an unfamiliar subject at a local Python meetup by the end of next quarter., or My goal is to submit or review one pull request per week on an open-source Python project.
+
+Additional factors to consider when setting overall goals for your mentoring experience include:
+
+- Creating space for a strong relationship to form and hopefully extend beyond Operation Code
+- Alignment with project work for any actual task-oriented activities
+- Opportunities to connect with someone outside of your area of discipline/expertise
+- Not over-committing or under-committing
+- Perhaps stating/sharing goals publicly to help commit to them
+- Tips for mentees
+
+Help your mentor help you! If there is something specific that you’d like to explore or an area you’re struggling with, let them know so they know to tailor the time around these things.
+
+##### Mentor Goal Setting
+
+- Try and let the mentee set the pace and direction, but pick up on cues where they might be getting stuck or struggling with something.
+- If it feels like you’ve reached a good point with one thread of mentoring, feel free to offer suggestions of new areas to explore together.
+
+
+#### Moving Forward
 
 * When will our monthly check-ins be?
 
@@ -254,7 +286,7 @@ After setting up the first meeting with your new mentee, the below checklist can
 
 * What tools or platforms will be used during the process (Free Code Camp, Code Academy, etc.).
 
-##### Next Steps
+#### Next Steps
 
 * Confirm date for next meeting.
 
@@ -298,3 +330,5 @@ TBD
 
 	TBD
 
+# References
+* 18F Mentorship Handbook

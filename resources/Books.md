@@ -2,6 +2,8 @@
 
 ## General Programming
 * [Free Programming Books](https://github.com/vhf/free-programming-books)
+* [More Free Programming Books](https://www.packtpub.com/packt/offers/free-learning)
+* [Free Tech Books](http://www.freetechbooks.com/)
 * [Programming from the Ground Up](http://mirror.cedia.org.ec/nongnu//pgubook/ProgrammingGroundUp-1-0-booksize.pdf)
 * [Teach Your Kids to Code](http://teachyourkidstocode.com/)
 * [Ed Yourdan Books](https://en.wikipedia.org/wiki/Edward_Yourdon#Publications)
@@ -48,4 +50,7 @@
 
 ## Python
 * [Article -- 19 Free Python Books](https://medium.mybridge.co/19-free-ebooks-to-learn-programming-with-python-8f6f0ad4a7f8?gi=3cd835d59f6e#.ja176d9ih)
+
+## PHP
+* [Modern PHP](http://pdf.th7.cn/down/files/1502/Modern%20PHP.pdf)
 
