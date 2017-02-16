@@ -22,3 +22,4 @@
 * [Cisco Vet Program](http://csr.cisco.com/casestudy/veterans-program)
 * [Accenture Veteran Technology Training Program](https://www.accenture.com/us-en/careers/jobdetails?id=00407361_en)
 * [Syracuse University Institute for Veterans and Military Families](https://ivmf.syracuse.edu/)
+* [Vet Tech Trek](https://vettechtrek.com/)

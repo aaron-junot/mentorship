@@ -13,6 +13,7 @@
 * [Jr Dev Jobs](https://www.jrdevjobs.com/)
 * [CASY (Corporate America Supports You) Job Board](http://casy.msccn.org)
 * [Careerscore.com](https://careerscore.com/)
+* [Just Junior Jobs](http://justjuniorjobs.com/)
 
 ### Apprenticeships
 * [Kanone](https://www.kanone.com/)
@@ -28,6 +29,7 @@
 * [We Work Remotely](https://weworkremotely.com/)
 * [WFH.io](https://www.wfh.io/)
 * [ProductHunt Remote](https://www.producthunt.com/e/find-a-remote-job)
+* [remotive.io](http://remotive.io/)
 
 ### Local
 * [Start Up Weekend (Good for Networking locally)](https://startupweekend.org)
